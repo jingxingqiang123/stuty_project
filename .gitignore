@@ -1,0 +1,1 @@
+target/ .idea/ *.iml .project .settings .classpath bin/ .DS_Store 可以用echo命令创建 也可以手动创建
